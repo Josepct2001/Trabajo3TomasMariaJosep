@@ -1,3 +1,4 @@
+#cambio de prueba de tomas
 print("Enter the Binary Number: ", end="")
 bnum = int(input())
 
