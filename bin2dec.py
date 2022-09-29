@@ -9,3 +9,5 @@ def binario_a_decimal(binario):
         decimal += int(digito) * multiplicador
         posicion += 1
     return decimal
+    #cambiodeprueba
+    
